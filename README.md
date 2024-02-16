@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Bouyarmane</h1>
 <h3 align="center">A passionate Cybersecurity student from Morocco</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw0CCS7FOu_NLBz8QYuVG8oT&ust=1708201836332000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCB7o7osIQDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimabouyarmane&label=Profile%20views&color=0e75b6&style=flat" alt="fatimabouyarmane" /> </p>
 
