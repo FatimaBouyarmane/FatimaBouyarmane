@@ -15,30 +15,7 @@
 
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-python
-class CyberSecurityEnthusiast:
-def init(self):
-self.name = "Fatima Bouyarmane"
-self.role = "Cybersecurity Student"
-self.location = "Morocco 🇲🇦"
-self.interests = [
-"Network Security",
-"Penetration Testing",
-"Malware Analysis",
-"Digital Forensics"
-]
-self.current_learning = [
-"Advanced Exploitation",
-"Reverse Engineering",
-"Cloud Security"
-]
-def get_current_projects(self):
-return [
-"🔒 Security Tool Development",
-"🌐 Web Application Security",
-"🛡️ Network Defense Systems"
-]
-me = CyberSecurityEnthusiast()
+
 </div>
 
 <!-- Skills Section -->
