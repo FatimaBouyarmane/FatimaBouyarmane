@@ -7,6 +7,38 @@
 </div>
 
 <!-- About Me Section with Matrix-style code -->
+<!-- About Me Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25">
+    About Me
+  </h2>
+</div>
+python
+class CyberSecurityResearcher:
+def init(self):
+self.name = "Fatima Bouyarmane 👩‍💻"
+self.role = "Security Researcher 🔍"
+self.location = "Morocco 🇲🇦"
+self.arsenal = {
+"🛡️ Security": [
+"Penetration Testing",
+"Network Security",
+"Digital Forensics"
+],
+"💻 Programming": [
+"Python", "Java", "C++",
+"Web Development"
+],
+"🔧 Tools": [
+"Kali Linux", "Wireshark",
+"Metasploit", "Burp Suite"
+]
+}
+def mission(self):
+return "Securing the digital world, one byte at a time"
+me = CyberSecurityResearcher()
+</div>
 
 <div align="center">
   <!-- Skill Badges -->
