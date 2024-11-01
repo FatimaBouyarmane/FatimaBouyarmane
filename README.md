@@ -6,7 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=00A6ED&height=120&section=header&animation=fadeIn"/>
 </div>
 
-<!-- About Me Section with Matrix-style code -->
 <!-- About Me Section -->
 <div align="center">
   <h2>
@@ -14,7 +13,8 @@
     About Me
   </h2>
 </div>
-python
+
+```python
 class CyberSecurityResearcher:
 def init(self):
 self.name = "Fatima Bouyarmane 👩‍💻"
@@ -38,7 +38,7 @@ self.arsenal = {
 def mission(self):
 return "Securing the digital world, one byte at a time"
 me = CyberSecurityResearcher()
-</div>
+```
 
 <div align="center">
   <!-- Skill Badges -->
