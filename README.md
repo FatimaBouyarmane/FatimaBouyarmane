@@ -1,18 +1,16 @@
 <div align="center">
-  <!-- Custom badges for header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=535&lines=Hi%2C+I'm+Fatima+Bouyarmane+%F0%9F%91%8B;Cybersecurity+Student+%F0%9F%94%92;Moroccan+Tech+Explorer+%F0%9F%8C%9F" alt="Typing SVG" />
+  <!-- Matrix-style Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00A6ED&height=200&section=header&text=Fatima%20Bouyarmane&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20|%20Digital%20Guardian&descAlignY=50&descSize=20" width="100%"/>
 
-  <!-- Wave animation -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00A6ED&height=120&section=header&animation=fadeIn"/>
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=535&lines=Ethical+Hacker+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%8D;Digital+Forensics+%F0%9F%94%8E" alt="Typing SVG" />
 </div>
 
-<!-- About Me Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25">
-    About Me
-  </h2>
-</div>
+<!-- Matrix-style Introduction -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
+  System.out.println("Hello, World!");
+</h2>
 
 ```python
 class CyberSecurityResearcher:
@@ -20,76 +18,85 @@ def init(self):
 self.name = "Fatima Bouyarmane 👩‍💻"
 self.role = "Security Researcher 🔍"
 self.location = "Morocco 🇲🇦"
-self.arsenal = {
-"🛡️ Security": [
+self.expertise = {
+"🛡️ Offensive Security": [
 "Penetration Testing",
-"Network Security",
-"Digital Forensics"
+"Vulnerability Assessment",
+"Red Team Operations"
 ],
-"💻 Programming": [
-"Python", "Java", "C++",
-"Web Development"
+"🔒 Defensive Security": [
+"Incident Response",
+"Threat Hunting",
+"Security Architecture"
 ],
-"🔧 Tools": [
-"Kali Linux", "Wireshark",
-"Metasploit", "Burp Suite"
+"💻 Development": [
+"Secure Coding",
+"Security Automation",
+"Tool Development"
 ]
 }
+
 def mission(self):
-return "Securing the digital world, one byte at a time"
+return "Protecting digital assets and hunting threats in cyberspace"
 me = CyberSecurityResearcher()
 ```
 
 <div align="center">
-  <!-- Skill Badges -->
+  <!-- Professional Arsenal Section -->
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> 
-    Security Arsenal
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
+    Security Arsenal & Technologies
   </h2>
 
-  ![Security](https://img.shields.io/badge/Security-00A6ED?style=for-the-badge&logo=shield&logoColor=white)
-  ![Hacking](https://img.shields.io/badge/Ethical_Hacking-00A6ED?style=for-the-badge&logo=hackaday&logoColor=white)
-  ![Forensics](https://img.shields.io/badge/Digital_Forensics-00A6ED?style=for-the-badge&logo=detective&logoColor=white)
+  <!-- Offensive Security Tools -->
+  <details>
+    <summary>🗡️ Offensive Security</summary>
+    <br/>
+    <img src="https://img.shields.io/badge/Kali_Linux-00A6ED?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Metasploit-00A6ED?style=for-the-badge&logo=metasploit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Burp_Suite-00A6ED?style=for-the-badge&logo=burp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nmap-00A6ED?style=for-the-badge&logo=nmap&logoColor=white"/>
+  </details>
 
-  <!-- Tech Stack with Animated Icons -->
+  <!-- Defensive Security Tools -->
+  <details>
+    <summary>🛡️ Defensive Security</summary>
+    <br/>
+    <img src="https://img.shields.io/badge/Wireshark-00A6ED?style=for-the-badge&logo=wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Snort-00A6ED?style=for-the-badge&logo=snort&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Splunk-00A6ED?style=for-the-badge&logo=splunk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SIEM-00A6ED?style=for-the-badge&logo=security&logoColor=white"/>
+  </details>
+
+  <!-- Development Tools -->
+  <details>
+    <summary>💻 Development</summary>
+    <br/>
+    <img src="https://img.shields.io/badge/Python-00A6ED?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell_Script-00A6ED?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-00A6ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-00A6ED?style=for-the-badge&logo=git&logoColor=white"/>
+  </details>
+
+  <!-- GitHub Analytics -->
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-    Tech Stack
+    Cyber Operations Analytics
   </h2>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-00A6ED?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-00A6ED?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Networking-00A6ED?style=for-the-badge&logo=cisco&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Web_Security-00A6ED?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </p>
-
-  <!-- GitHub Stats with Custom Theme -->
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25">
-    Analytics
-  </h2>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fatimabouyarmane&show_icons=true&theme=transparent&hide_border=true&title_color=00A6ED&text_color=FFFFFF&icon_color=00A6ED" height="170"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimabouyarmane&theme=transparent&hide_border=true&stroke=00A6ED&ring=00A6ED&fire=00A6ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A6ED&sideLabels=00A6ED&dates=FFFFFF" height="170"/>
-  </p>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=fatimabouyarmane&cc=0D1117&tc=00A6ED&ic=fff&bc=0D1117" width="49%" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimabouyarmane&theme=transparent&hide_border=true&stroke=00A6ED&ring=00A6ED&fire=00A6ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A6ED&sideLabels=00A6ED&dates=FFFFFF" width="49%" />
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimabouyarmane&bg_color=0D1117&color=00A6ED&line=00A6ED&point=FFFFFF&hide_border=true" width="100%">
-
-  <!-- Fun Fact Section -->
-  <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25">
-    Fun Fact
-  </h2>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A6ED&center=true&vCenter=true&width=435&lines=I+have+a+cat+named+Mishmish!+🐱" alt="Fun Fact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimabouyarmane&custom_title=Cybersecurity%20Operations%20Timeline&hide_border=true&bg_color=0D1117&color=00A6ED&line=00A6ED&point=FFFFFF&title_color=FFFFFF" width="98%" />
 
   <!-- Connect Section -->
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
-    Let's Connect
+    Secure Communication Channels
   </h2>
 
   <a href="mailto:fbouyarmane@gmail.com">
@@ -98,11 +105,14 @@ me = CyberSecurityResearcher()
   <a href="https://www.linkedin.com/in/fatima-bouyarmane-919892228/">
     <img src="https://img.shields.io/badge/LinkedIn-00A6ED?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-00A6ED?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
 
-  <!-- Profile Views Counter -->
+  <!-- Profile Views -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=fatimabouyarmane&color=00A6ED&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=fatimabouyarmane&color=00A6ED&style=for-the-badge&label=Profile+Access+Count"/>
 
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00A6ED&height=120&section=footer&animation=fadeIn"/>
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00A6ED&height=120&section=footer"/>
 </div>
