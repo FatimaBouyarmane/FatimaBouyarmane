@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Fatima+Bouyarmane;Cybersecurity+Student+from+Morocco&center=true&width=380&height=45">
 
-  <!-- Profile Banner Image -->
-  <img src="https://your-banner-image-url.png" width="100%">
+
 </div>
 
 ## 🚀 About Me
