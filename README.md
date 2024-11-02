@@ -74,10 +74,34 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!-- Profile Views -->
+<!-- Profile Views with Cosmic Style -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatimabouyarmane&style=for-the-badge&color=00FFE7&label=COSMIC+VISITORS" />
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  <!-- Visitor Counter with Space Theme -->
+  <div align="center">
+    <h3>✨ Cosmic Visitor Count ✨</h3>
+    <img src="https://profile-counter.glitch.me/fatimabouyarmane/count.svg" width="200"/>
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=fatimabouyarmane&style=for-the-badge&color=00FFE7&label=COSMIC+VISITORS" />
+    <br><br>
+    <!-- Additional Space-themed Badges -->
+    <img src="https://img.shields.io/badge/Status-Exploring%20The%20Digital%20Universe-00FFE7?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Mission-Securing%20Cyberspace-00FFE7?style=for-the-badge&logo=spacex&logoColor=white"/>
+  </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE7&height=100&section=footer" width="100%">
+  <!-- Animated Footer -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <!-- Space-themed Quote -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=1000&color=00FFE7&center=true&vCenter=true&width=800&lines=%22In+the+vast+universe+of+code%2C+security+is+our+guiding+star.%22" />
+  </p>
+  
+  <!-- Animated Space Footer -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+  
+  <!-- Final Space Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE7&height=100&section=footer&animation=twinkling" width="100%">
+</div>
