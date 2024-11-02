@@ -4,44 +4,15 @@
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=535&lines=Ethical+Hacker+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%8D;Digital+Forensics+%F0%9F%94%8E" alt="Typing SVG" />
-</div>
 
-<!-- Matrix-style Introduction -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
-  System.out.println("Hello, World!");
-</h2>
+  <!-- Brief Introduction -->
+  <h3>🌟 About Me</h3>
+  <p>
+    Passionate Cybersecurity Student from Morocco 🇲🇦<br>
+    Focused on Digital Security and Ethical Hacking<br>
+    Always Learning, Always Securing 🔒
+  </p>
 
-```python
-class CyberSecurityResearcher:
-def init(self):
-self.name = "Fatima Bouyarmane 👩‍💻"
-self.role = "Security Researcher 🔍"
-self.location = "Morocco 🇲🇦"
-self.expertise = {
-"🛡️ Offensive Security": [
-"Penetration Testing",
-"Vulnerability Assessment",
-"Red Team Operations"
-],
-"🔒 Defensive Security": [
-"Incident Response",
-"Threat Hunting",
-"Security Architecture"
-],
-"💻 Development": [
-"Secure Coding",
-"Security Automation",
-"Tool Development"
-]
-}
-
-def mission(self):
-return "Protecting digital assets and hunting threats in cyberspace"
-me = CyberSecurityResearcher()
-```
-
-<div align="center">
   <!-- Professional Arsenal Section -->
   <h2>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
@@ -78,6 +49,14 @@ me = CyberSecurityResearcher()
     <img src="https://img.shields.io/badge/Git-00A6ED?style=for-the-badge&logo=git&logoColor=white"/>
   </details>
 
+  <!-- Current Focus -->
+  <h3>🎯 Current Focus</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Penetration_Testing-00A6ED?style=for-the-badge&logo=target&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Malware_Analysis-00A6ED?style=for-the-badge&logo=virus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Network_Security-00A6ED?style=for-the-badge&logo=network-wired&logoColor=white"/>
+  </p>
+
   <!-- GitHub Analytics -->
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
@@ -93,6 +72,15 @@ me = CyberSecurityResearcher()
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimabouyarmane&custom_title=Cybersecurity%20Operations%20Timeline&hide_border=true&bg_color=0D1117&color=00A6ED&line=00A6ED&point=FFFFFF&title_color=FFFFFF" width="98%" />
 
+  <!-- Fun Fact Section -->
+  <h3>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25">
+    Fun Fact
+  </h3>
+  <p>
+    Growing up in Morocco, I befriended a stray kitten named Mishmish, who became my loyal companion! 🇲🇦🐱
+  </p>
+
   <!-- Connect Section -->
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
@@ -105,7 +93,7 @@ me = CyberSecurityResearcher()
   <a href="https://www.linkedin.com/in/fatima-bouyarmane-919892228/">
     <img src="https://img.shields.io/badge/LinkedIn-00A6ED?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://fatimabouyarmane.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-00A6ED?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 
