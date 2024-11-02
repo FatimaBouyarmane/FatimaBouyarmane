@@ -99,9 +99,4 @@
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=1000&color=00FFE7&center=true&vCenter=true&width=800&lines=%22In+the+vast+universe+of+code%2C+security+is+our+guiding+star.%22" />
   </p>
   
-  <!-- Animated Space Footer -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-  
-  <!-- Final Space Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFE7&height=100&section=footer&animation=twinkling" width="100%">
 </div>
