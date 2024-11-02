@@ -12,11 +12,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 -->
-<!-- Cosmic Introduction -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FFE7&center=true&vCenter=true&width=800&lines=FATIMA+BOUYARMANE;CYBERSECURITY+EXPLORER" />
-</p>
+
 <!-- Animated Space Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%">
 
