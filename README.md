@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Matrix-style Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00A6ED&height=200&section=header&text=Fatima%20Bouyarmane&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20|%20Digital%20Guardian&descAlignY=50&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00A6ED&height=200&section=header&text=Fatima%20Bouyarmane&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20|%20Digital%20Guardian&descAlignY=50&descSize=20" width="100%"/>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00A6ED&center=true&vCenter=true&random=false&width=535&lines=Ethical+Hacker+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%8D;Digital+Forensics+%F0%9F%94%8E" alt="Typing SVG" />
