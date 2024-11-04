@@ -67,54 +67,6 @@ self.current_mission = "Protecting Digital Horizons"
   </a>
 </div>
 
-## 🛸 Technologies & Expertise
-
-<div align="center">
-
-### Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php" />
-  </a>
-</p>
-
-### Security & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim" />
-  </a>
-</p>
-
-### Development & DevOps
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,gitlab" />
-  </a>
-</p>
-
-### Frameworks & Libraries
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,bootstrap" />
-  </a>
-</p>
-
-### Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
-  </a>
-</p>
-
-### Cloud & Networking
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,nginx" />
-  </a>
-</p>
-
-
-</div>
 
 ### "As vast as space and as deep as the sea, the digital world awaits exploration" 🌌🌊
 </div>
