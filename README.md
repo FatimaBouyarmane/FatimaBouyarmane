@@ -84,7 +84,7 @@ self.current_mission = "Protecting Digital Horizons"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,flask" />
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
-  <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" width="45" height="45" alt="Kubeflow"/>
+  <img src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" width="45" height="45" alt="Kubeflow"/>
 </p>
 
 ### Databases
@@ -103,7 +103,6 @@ self.current_mission = "Protecting Digital Horizons"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="45" height="45" alt="PyCharm"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
 ### Security Tools & Technologies
@@ -111,16 +110,20 @@ self.current_mission = "Protecting Digital Horizons"
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
   <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="45" height="45" alt="Snort IDS"/>
-  <img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" width="45" height="45" alt="Wazuh"/>
-  <img src="https://www.vectorlogo.zone/logos/zapproxy/zapproxy-icon.svg" width="45" height="45" alt="OWASP ZAP"/>
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nmap.svg" width="45" height="45" alt="Nmap"/>
 </p>
 
 ### Enterprise & Administration
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell" />
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" width="45" height="45" alt="PowerShell"/>
-  <img src="https://www.vectorlogo.zone/logos/rpc/rpc-icon.svg" width="45" height="45" alt="RPC"/>
+</p>
+
+### Additional Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-4FB4D8?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/RPC-4FB4D8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIDSURBVCiRddJNSFRRGMbx/zn33plxZsYZNUedUaNRx4VBhYRBEUUFQRsXEVFtWrSJCBcRLapNhS0igyBauIgWEgVFH0QFUUEUFBUl0VdFOQpqjjZ+3I9z7z0txnHUZ/U+D+/L/8CT7Wg/jDQXBBoGqvVcH6qqAPmMUi4XyE+MkH7zDoBwR9u+WCZ3LVzX2WKk01O5T0PP/wI7T5/E29yMe72L0PYd7PSe6wBwa3xsZ2VmLm1PTRiTHB6WpR9j4vN4RFVVQYRgQyPO2lrKqTRWVRSA8O7duwEcABWqQqPRSKC+nkAkCoCVL4CIYOdyAKjrEti8GYBIWxvRjg7U8wCwFhYAMNPTrGSzABjJJKXJSQACkQjB+noA/OUcgehGALLPnmKkUuT6+0gPDKw6+/LwAcWxMQzXJXr4CABeXx8A0UOHqG5rQT0f+/MnvNFRACqmp0kPDqCui1Usoo6Dt6kGd2MUb2yM0qfPGJ5HOZ3Gm5hYPTqAmc0S2rETU1WF+gGR9jb8XA5zaQlzaYns06cEwmGiR48RCAQ2hGtra/HzeYxwGDuXw0ylsJaXAajYsoXo4SN4k5MYhsHC/QHmu7tXg+2XLlLT2Uk5ncbMZLCWliiMjhJqaSF2/BhGMFgNYPwuVq+vHPf9QrHv7v2/P5qNtbVZwHJd90e8s/MSQqX8Bb6PhR/YNmY2AAAAAElFTkSuQmCC" alt="RPC"/>
 </p>
 
 <div align="center">
