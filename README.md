@@ -26,8 +26,8 @@ self.current_mission = "Protecting Digital Horizons"
 ## 🌌 Journey Through the Tech Universe
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&background=0D1117&stroke=4FB4D8&ring=4FB4D8&fire=87CEEB&currStreakLabel=4FB4D8&sideLabels=4FB4D8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaBouyarmane&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaBouyarmane&theme=black-ice&background=0D1117&stroke=4FB4D8&ring=4FB4D8&fire=87CEEB&currStreakLabel=4FB4D8&sideLabels=4FB4D8" height="165"/>
 </div>
 
 ## 🌊 Diving Deep Into Skills
@@ -48,21 +48,21 @@ self.current_mission = "Protecting Digital Horizons"
 
 ## 🗺️ Featured Voyages (Projects)
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
+  <a href="https://github.com/FatimaBouyarmane/Snort-IDS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaBouyarmane&repo=Snort-IDS&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
+  <a href="https://github.com/FatimaBouyarmane/RPC-Encrypt-Decrypt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaBouyarmane&repo=RPC-Encrypt-Decrypt&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
   </a>
 </div>
 
 ## 🌎 Connect Across the Universe
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/fatima-bouyarmane-919892228/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4FB4D8" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:fbouyarmane@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=4FB4D8" />
   </a>
 </div>
