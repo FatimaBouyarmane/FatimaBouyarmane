@@ -110,7 +110,7 @@ self.current_mission = "Protecting Digital Horizons"
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
   <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="45" height="45" alt="Snort IDS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nmap.svg" width="45" height="45" alt="Nmap"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
 </p>
 
 ### Enterprise & Administration
