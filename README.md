@@ -1,6 +1,6 @@
 <div align="center">
   <!-- You can create a banner that combines space and ocean imagery -->
-  <img src="your-banner-url.png" width="100%" alt="Banner showing space and ocean merger"/>
+  <img src="[your-banner-url.png](https://th.bing.com/th/id/R.ce2dee08b36d43e4f8443dd5a19fc405?rik=%2fU2ZX04yPNUnAw&riu=http%3a%2f%2f2.bp.blogspot.com%2f_6RXTIP46tMo%2fTPi5NRxC6NI%2fAAAAAAAAA2g%2fEiRzg4bNDZY%2fs1600%2fSoalr-System-FB-1.jpg&ehk=MHR2FojrIktNGJ3KJfU%2fYBg%2fv1yaxrsT2X7rVs1iris%3d&risl=&pid=ImgRaw&r=0)" width="100%" alt="Banner showing space and ocean merger"/>
 
   # 🌌 FATIMA BOUYARMANE 🌊
 
