@@ -67,52 +67,53 @@ self.current_mission = "Protecting Digital Horizons"
   </a>
 </div>
 
-<!-- Add this before the final closing div -->
-
 ## 🛸 Technologies & Expertise
 
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-4FB4D8?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-4FB4D8?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4FB4D8?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4FB4D8?style=for-the-badge&logo=javascript&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php" />
+  </a>
+</p>
 
-### Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-4FB4D8?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-4FB4D8?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4FB4D8?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4FB4D8?style=for-the-badge&logo=nmap&logoColor=white)
+### Security & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim" />
+  </a>
+</p>
 
 ### Development & DevOps
-![Git](https://img.shields.io/badge/Git-4FB4D8?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-4FB4D8?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-4FB4D8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-4FB4D8?style=for-the-badge&logo=linux&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,gitlab" />
+  </a>
+</p>
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-4FB4D8?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4FB4D8?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-4FB4D8?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-4FB4D8?style=for-the-badge&logo=flask&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,bootstrap" />
+  </a>
+</p>
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4FB4D8?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4FB4D8?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4FB4D8?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+  </a>
+</p>
 
 ### Cloud & Networking
-![AWS](https://img.shields.io/badge/AWS-4FB4D8?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4FB4D8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-4FB4D8?style=for-the-badge&logo=cisco&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,nginx" />
+  </a>
+</p>
 
 </div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4FB4D8&style=flat-square&label=Visitors" alt="Profile Views" />
-  
   ### "As vast as space and as deep as the sea, the digital world awaits exploration" 🌌🌊
 </div>
  
