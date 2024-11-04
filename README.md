@@ -46,14 +46,54 @@ self.current_mission = "Protecting Digital Horizons"
 🛸 Studying Space-related Technologies
 ```
 
-## 🗺️ Featured Voyages (Projects)
+## 🚀 Featured Projects
+
 <div align="center">
   <a href="https://github.com/FatimaBouyarmane/Snort-IDS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaBouyarmane&repo=Snort-IDS&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
   </a>
+  <details>
+    <summary>🛡️ Project Details</summary>
+    <p>
+      Implementation of Snort IDS (Intrusion Detection System) for network security monitoring and threat detection.
+      
+      🔧 **Tech Stack:**
+      - Snort IDS
+      - Linux Environment
+      - Network Protocols
+      
+      ⭐ **Key Features:**
+      - Real-time traffic analysis
+      - Custom rule implementation
+      - Threat detection & alerting
+      - Network packet inspection
+    </p>
+  </details>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/FatimaBouyarmane/RPC-Encrypt-Decrypt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaBouyarmane&repo=RPC-Encrypt-Decrypt&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
   </a>
+  <details>
+    <summary>🔐 Project Details</summary>
+    <p>
+      Remote Procedure Call (RPC) implementation for secure data encryption and decryption operations.
+      
+      🔧 **Tech Stack:**
+      - RPC Protocol
+      - Encryption Algorithms
+      - Client-Server Architecture
+      
+      ⭐ **Key Features:**
+      - Remote encryption/decryption
+      - Secure data transmission
+      - Client-server communication
+      - Multiple encryption methods
+    </p>
+  </details>
 </div>
 
 ## 🌎 Connect Across the Universe
