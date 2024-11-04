@@ -57,17 +57,17 @@ self.current_mission = "Protecting Digital Horizons"
     <p>
       Implementation of Snort IDS (Intrusion Detection System) for network security monitoring and threat detection.
       
-      🔧 **Tech Stack:**
-      - Snort IDS
-      - Linux Environment
-      - Network Protocols
-      
-      ⭐ **Key Features:**
-      - Real-time traffic analysis
-      - Custom rule implementation
-      - Threat detection & alerting
-      - Network packet inspection
-    </p>
+          🔧 **Tech Stack:**
+          - Snort IDS
+          - Linux Environment
+          - Network Protocols
+          
+          ⭐ **Key Features:**
+          - Real-time traffic analysis
+          - Custom rule implementation
+          - Threat detection & alerting
+          - Network packet inspection
+  </p>
   </details>
 </div>
 
@@ -92,7 +92,7 @@ self.current_mission = "Protecting Digital Horizons"
       - Secure data transmission
       - Client-server communication
       - Multiple encryption methods
-    </p>
+   </p>
   </details>
 </div>
 
