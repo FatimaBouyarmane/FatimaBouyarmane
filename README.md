@@ -1,82 +1,75 @@
 <div align="center">
-  
-# FATIMA BOUYARMANE
+  <!-- You can create a banner that combines space and ocean imagery -->
+  <img src="your-banner-url.png" width="100%" alt="Banner showing space and ocean merger"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B52F7&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;Network+Security+Enthusiast;Penetration+Testing+Passionate)](https://git.io/typing-svg)
+  # 🌌 FATIMA BOUYARMANE 🌊
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;Where+Space+Meets+the+Ocean;Explorer+of+Digital+Depths)](https://git.io/typing-svg)
+
+*"In the depths of the ocean and the vastness of space, we find the greatest mysteries to explore"*
 
 </div>
 
-## 👩‍💻 About Me
-- 🎓 4th Year Cybersecurity Student
-- 🔒 Focusing on Network Security & Ethical Hacking
-- 🌐 Passionate about Information Security
-- 🚀 Always exploring new security tools and techniques
-
-## 🛡️ Security Skills
+## 🌟 Navigating the Digital Cosmos
 ```
 python
-class CyberSecuritySkills:
+class DigitalExplorer:
 def init(self):
-self.security_domains = {
-"Network Security": ["Wireshark", "Nmap", "Snort"],
-"Penetration Testing": ["Metasploit", "Burp Suite", "Nessus"],
-"Forensics": ["Volatility", "Autopsy", "EnCase"],
-"Security Tools": ["Kali Linux", "ParrotOS", "Security Onion"]
-}
-self.programming = ["Python", "Bash", "PowerShell"]
-self.certifications = ["Working on: OSCP/CEH/Security+"]
+self.name = "Fatima BOUYARMANE"
+self.education = "4th Year Cybersecurity Student"
+self.interests = ["Deep Sea Technology 🌊",
+"Space Exploration 🚀",
+"Network Security 🛡️"]
+self.current_mission = "Protecting Digital Horizons"
 ```
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
-## 📊 GitHub Stats
+## 🌌 Journey Through the Tech Universe
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&background=0D1117&stroke=4FB4D8&ring=4FB4D8&fire=87CEEB&currStreakLabel=4FB4D8&sideLabels=4FB4D8" height="165"/>
 </div>
 
-## 🎯 Current Focus
-- 🔐 Expanding knowledge in Advanced Penetration Testing
-- 🌐 Studying Web Application Security
-- 🛡️ Learning Cloud Security
-- 🤖 Exploring Security Automation
+## 🌊 Diving Deep Into Skills
+```
+🛡️ Security : Network Security, Penetration Testing, Cryptography
+🌐 Networking : TCP/IP, DNS, Firewalls
+💻 Programming : Python, Bash, PowerShell
+🔧 Tools : Wireshark, Nmap, Metasploit
+```
 
-## 🚀 Featured Security Projects
+## 🎯 Current Explorations
+```
+🌌 Exploring the depths of Network Security
+🌊 Diving into Advanced Cryptography
+🚀 Launching new Security Projects
+🛸 Studying Space-related Technologies
+```
+
+## 🗺️ Featured Voyages (Projects)
 <div align="center">
-  <!-- Replace with your actual projects -->
   <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" />
   </a>
 </div>
 
-## 🔍 CTF Profiles
-- HackTheBox: [Profile Link]
-- TryHackMe: [Profile Link]
-- VulnHub: [Profile Link]
+## 🌎 Connect Across the Universe
 
-## 📫 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4FB4D8" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=4FB4D8" />
   </a>
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4FB4D8&style=flat-square&label=Visitors" alt="Profile Views" />
   
-  ### "Security is not a product, but a process." - Bruce Schneier
+  ### "As vast as space and as deep as the sea, the digital world awaits exploration" 🌌🌊
 </div>
