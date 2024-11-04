@@ -66,7 +66,11 @@ self.current_mission = "Protecting Digital Horizons"
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=4FB4D8" />
   </a>
 </div>
+## 🛸 Technologies & Expertise
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,linux,bash,powershell,vim,git,docker,vscode,github,gitlab,react,nodejs,django,flask,bootstrap,mysql,mongodb,postgresql,aws,azure,gcp&perline=5" />
+</p>
 
 ### "As vast as space and as deep as the sea, the digital world awaits exploration" 🌌🌊
 </div>
