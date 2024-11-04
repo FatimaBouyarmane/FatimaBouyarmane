@@ -67,9 +67,64 @@ self.current_mission = "Protecting Digital Horizons"
   </a>
 </div>
 
-## 🛸 Technologies and Expertise
+## 🛸 Technologies & Expertise
+
+### Operating Systems & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="45" height="45" alt="Arduino"/>
+</p>
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp" />
+</p>
+
+### Frameworks & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
+  <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" width="45" height="45" alt="Kubeflow"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" height="45" alt="Oracle SQL"/>
+</p>
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,azure,aws,gcp" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" height="45" alt="Ansible"/>
+</p>
+
+### IDEs & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="45" height="45" alt="PyCharm"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+### Security Tools & Technologies
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
+  <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="45" height="45" alt="Snort IDS"/>
+  <img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" width="45" height="45" alt="Wazuh"/>
+  <img src="https://www.vectorlogo.zone/logos/zapproxy/zapproxy-icon.svg" width="45" height="45" alt="OWASP ZAP"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
+</p>
+
+### Enterprise & Administration
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" width="45" height="45" alt="PowerShell"/>
+  <img src="https://www.vectorlogo.zone/logos/rpc/rpc-icon.svg" width="45" height="45" alt="RPC"/>
+</p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,linux,bash,powershell,vim,git,docker,vscode,github,gitlab,react,nodejs,django,flask,bootstrap,mysql,mongodb,postgresql,aws,azure,gcp&perline=5" />
+  <i>And many more tools and technologies...</i>
 </div>
 
 ### "As vast as space and as deep as the sea, the digital world awaits exploration" 🌌🌊
