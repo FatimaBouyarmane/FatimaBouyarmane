@@ -1,19 +1,59 @@
 <div align="center">
-  <!-- You can create a banner that combines space and ocean imagery -->
   <img src="https://t3.ftcdn.net/jpg/04/67/57/54/360_F_467575498_ay4GmJjaZz7qx560kkBPPqFUGmW8Hr8p.jpg" width="100%" alt="Banner showing space and ocean merger"/>
 
-  #   FATIMA BOUYARMANE
+  <h1>FATIMA BOUYARMANE</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;Where+Space+Meets+the+Ocean;Explorer+of+Digital+Depths)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;Where+Space+Meets+the+Ocean;Explorer+of+Digital+Depths" alt="Typing SVG"/>
 
-*"In the depths of the ocean and the vastness of space, we find the greatest mysteries to explore"*
+  <p><em>"In the depths of the ocean and the vastness of space, we find the greatest mysteries to explore"</em></p>
 </div>
 
-##   Journey Through the Tech Universe
+<style>
+  /* Full screen starry background */
+  body {
+    background: #0d1117;
+    overflow-x: hidden;
+    margin: 0;
+  }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaBouyarmane&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4FB4D8&icon_color=4FB4D8&text_color=8BE8FD&border_color=4FB4D8" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaBouyarmane&theme=black-ice&background=0D1117&stroke=4FB4D8&ring=4FB4D8&fire=87CEEB&currStreakLabel=4FB4D8&sideLabels=4FB4D8" height="165"/>
+  /* Create 50 small stars using pseudo-elements and animate opacity for twinkle */
+  div#star-background {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    z-index: -1;
+    pointer-events: none;
+    background: transparent;
+  }
+  div#star-background span {
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    opacity: 0.8;
+    animation: twinkle 2s infinite alternate;
+  }
+  /* Random positions & sizes for stars */
+  div#star-background span:nth-child(1) {top: 10%; left: 20%; width: 2px; height: 2px; animation-delay: 0s;}
+  div#star-background span:nth-child(2) {top: 40%; left: 50%; width: 3px; height: 3px; animation-delay: 1s;}
+  div#star-background span:nth-child(3) {top: 80%; left: 70%; width: 1.5px; height: 1.5px; animation-delay: 1.5s;}
+  div#star-background span:nth-child(4) {top: 60%; left: 30%; width: 2.5px; height: 2.5px; animation-delay: 0.7s;}
+  div#star-background span:nth-child(5) {top: 15%; left: 85%; width: 1.8px; height: 1.8px; animation-delay: 1.2s;}
+  div#star-background span:nth-child(6) {top: 25%; left: 5%; width: 1.3px; height: 1.3px; animation-delay: 1.3s;}
+  div#star-background span:nth-child(7) {top: 75%; left: 10%; width: 2.2px; height: 2.2px; animation-delay: 0.4s;}
+  div#star-background span:nth-child(8) {top: 50%; left: 80%; width: 1.5px; height: 1.5px; animation-delay: 0.9s;}
+  div#star-background span:nth-child(9) {top: 30%; left: 90%; width: 1.9px; height: 1.9px; animation-delay: 1.6s;}
+  div#star-background span:nth-child(10) {top: 90%; left: 40%; width: 2px; height: 2px; animation-delay: 0.2s;}
+  /* add more stars as needed */
+
+  @keyframes twinkle {
+    from {opacity: 0.3;}
+    to {opacity: 1;}
+  }
+</style>
+
+<div id="star-background">
+  <span></span><span></span><span></span><span></span><span></span>
+  <span></span><span></span><span></span><span></span><span></span>
+  <!-- Add up to 50 spans or more for more stars -->
 </div>
 
 ##   Diving Deep Into Skills
