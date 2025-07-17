@@ -154,5 +154,5 @@
   <i>And many more tools and technologies...</i>
 </div>
 
-### "As vast as space and as deep as the sea, the digital world awaits exploration" 
+###  "As vast as space and as deep as the sea, the digital world awaits exploration" 
 </div>
