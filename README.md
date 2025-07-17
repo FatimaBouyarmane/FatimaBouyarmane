@@ -8,6 +8,7 @@
 
 *"In the depths of the ocean and the vastness of space, we find the greatest mysteries to explore"*
 </div>
+
 ##   Journey Through the Tech Universe
 
 <div align="center">
@@ -40,7 +41,7 @@
     <p>
       Implementation of Snort IDS (Intrusion Detection System) for network security monitoring and threat detection.
       
-          🔧 **Tech Stack:**
+            **Tech Stack:**
           - Snort IDS
           - Linux Environment
           - Network Protocols
