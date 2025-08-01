@@ -1,78 +1,45 @@
-# Fatima Al-Mansouri 
-#### Cybersecurity Specialist | Secure Systems Engineer
+# <span style="color:#00f7ff">FATIMA_</span><span style="color:#ff00ff">BOUYARMANE</span><span style="color:white">.exe</span>  
+### <span style="color:#00f7ff">//</span> <span style="color:#ff00ff">Cybersecurity Explorer</span> <span style="color:#00f7ff">|</span> <span style="color:#ff00ff">Where Space Meets the Ocean</span>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FatimaCyber/FatimaCyber/main/assets/wave-banner.svg" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&width=600&lines=Digital+Depths+Diver;Cosmic+Security+Researcher;Encryption+Astronaut" alt="Typing animation">
+  <img src="https://i.imgur.com/5X3wZ4Q.gif" width="600" alt="cyber-ocean-space fusion">
 </div>
 
-## 🔐 Core Expertise
+> *"In the depths of the ocean and the vastness of space, we find the greatest mysteries to explore"*
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Offensive Security</h3>
-      <ul>
-        <li>Penetration Testing</li>
-        <li>Vulnerability Research</li>
-        <li>Red Team Operations</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Defensive Security</h3>
-      <ul>
-        <li>Threat Intelligence</li>
-        <li>Incident Response</li>
-        <li>Security Architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Technical Stack
-
+## <span style="color:#00f7ff">█▓▒░</span> <span style="color:#ff00ff">CYBER TOOLKIT</span> <span style="color:#00f7ff">░▒▓█</span>
 ```diff
-# Programming
-+ Python | Rust | PowerShell
-+ Bash | SQL | C++
+# Security Specializations
++ Network Security | Penetration Testing
++ Cryptography | RPC Security
++ Intrusion Detection | Traffic Analysis
 
-# Security Tools
-! Burp Suite | Metasploit | Ghidra
-! Wireshark | Nmap | IDA Pro
+# Core Technologies
+! Python | Bash | PowerShell
+! Wireshark | Nmap | Metasploit
+! Snort IDS | TCP/IP | Firewalls
 
-# Cloud/Infra
-- AWS | Azure | Terraform
-- Docker | Kubernetes | Ansible
-```
-## 🚀 Notable Projects
-<img src="https://img.icons8.com/color/48/000000/satellite.png" width="24"/> OrionSec Framework
-Satellite communication security analysis toolkit
-Python RF Analysis Cryptography
-https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github
+<span style="color:#00f7ff">█▓▒░</span> <span style="color:#ff00ff">ACTIVE MISSIONS</span> <span style="color:#00f7ff">░▒▓█</span>
+<div align="center">
+<span style="color:#00f7ff">Current Explorations</span>	<span style="color:#ff00ff">Tech Focus</span>
+https://img.shields.io/badge/Advanced_Cryptography-4FB4D8?style=flat&logo=key	Quantum-resistant algorithms
+https://img.shields.io/badge/Network_Security-FF00FF?style=flat&logo=network	IDS/IPS development
+https://img.shields.io/badge/Space_Tech-00F7FF?style=flat&logo=satellite	Secure space comms
+</div>
+<span style="color:#00f7ff">█▓▒░</span> <span style="color:#ff00ff">STAR PROJECTS</span> <span style="color:#00f7ff">░▒▓█</span>
+<div align="center">
+https://github-readme-stats.vercel.app/api/pin/?username=FatimaBouyarmane&repo=Snort-IDS&theme=radical&title_color=00f7ff&text_color=ff00ff&border_color=4FB4D8
+Cosmic Traffic Analyzer
+Snort IDS Threat Detection Network Forensics
 
-<img src="https://img.icons8.com/color/48/000000/waves.png" width="24"/> AbyssWatch
-Maritime infrastructure monitoring system
-SIEM Network Security ML
-https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github
+https://github-readme-stats.vercel.app/api/pin/?username=FatimaBouyarmane&repo=RPC-Encrypt-Decrypt&theme=radical&title_color=ff00ff&text_color=00f7ff&border_color=4FB4D8
+Abyss Encryption Protocol
+RPC Secure Comms Crypto Engine
 
-## 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FatimaCyber&show_icons=true&theme=algolia&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaCyber&layout=compact&theme=algolia&hide_border=true" width="45%"/> </div>
-## 📜 Certifications
-OSCP (Offensive Security Certified Professional)
+</div>
+<span style="color:#00f7ff">█▓▒░</span> <span style="color:#ff00ff">CYBER STATS</span> <span style="color:#00f7ff">░▒▓█</span>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FatimaBouyarmane&show_icons=true&theme=radical&title_color=00f7ff&text_color=ff00ff&bg_color=0d1117&hide_border=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaBouyarmane&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff00ff&fire=00f7ff&currStreakLabel=ff00ff"> </div>
+<span style="color:#00f7ff">█▓▒░</span> <span style="color:#ff00ff">DEEP SPACE COMMS</span> <span style="color:#00f7ff">░▒▓█</span>
+<div align="center"> <a href="https://linkedin.com/in/fatima-bouyarmane-919892228/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00f7ff"> </a> <a href="mailto:fbouyarmane@gmail.com"> <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=ff00ff"> </a> <a href="#"> <img src="https://img.shields.io/badge/PGP-4FB4D8?style=for-the-badge&logo=gnuprivacyguard&logoColor=black"> </a> </div><div align="center"> <img src="https://i.imgur.com/JDX7z2n.gif" width="300" alt="digital ocean waves"> </div> ````
 
-CISSP (Certified Information Systems Security Professional)
-
-CCSP (Certified Cloud Security Professional)
-
-## 🌌 Research Interests
-Space systems cybersecurity
-
-Underwater network security
-
-Quantum-resistant cryptography
-
-AI in cyber defense
-
-## 📫 Connect
-<div align="center"> <a href="https://linkedin.com/in/fatima-cyber"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/FatimaCyberSec"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="mailto:fatima@cyber.dev"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div><div align="center"> <img src="https://raw.githubusercontent.com/FatimaCyber/FatimaCyber/main/assets/space-ocean-divider.svg" width="100%"/> </div>
-"Security is not a product, but a process." - Bruce Schneier
-Inspired by the vastness of space and depth of oceans in building resilient systems
