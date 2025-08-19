@@ -94,25 +94,25 @@
 
 ##   Technologies & Expertise
 
-### Operating Systems & Environments
+#### Operating Systems & Environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="45" height="45" alt="Arduino"/>
 </p>
 
-### Programming Languages
+#### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp" />
 </p>
 
-### Frameworks & Runtime
+#### Frameworks & Runtime
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,flask" />
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
   <img src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" width="45" height="45" alt="Kubeflow"/>
 </p>
 
-### Databases
+#### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" height="45" alt="Oracle SQL"/>
@@ -124,13 +124,13 @@
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" height="45" alt="Ansible"/>
 </p>
 
-### IDEs & Tools
+#### IDEs & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="45" height="45" alt="PyCharm"/>
 </p>
 
-### Security Tools & Technologies
+#### Security Tools & Technologies
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
@@ -138,13 +138,13 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
 </p>
 
-### Enterprise & Administration
+#### Enterprise & Administration
 <p align="center">
   <img src="https://skillicons.dev/icons?i=powershell" />
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
 </p>
 
-### Additional Tools
+#### Additional Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-4FB4D8?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
